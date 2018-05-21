@@ -4,6 +4,6 @@
 Мета Ознайомити з основними механізмами реалізації новітніх технологій ("клієнт-сервер"), розбір програми роботи з неіменованими каналами.
 
 Завдання Розробити програму що зчитує файл та передає його вміст іншій команді, за допомогою неіменованого каналу.
-![](https://github.com/YatskivYana/OCLab3/blob/master/lab3%201.png)
-![](https://github.com/YatskivYana/OCLab3/blob/master/lab3%202.png)
+![](https://github.com/MrWade0405/OCLab4/blob/master/OClab4(1).png)
+![]()
 ![](https://github.com/MrWade0405/OCLab4/blob/master/OClab4(3).png)
